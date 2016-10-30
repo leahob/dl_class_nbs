@@ -3,6 +3,7 @@ ipython notebooks for dl_class
 
 Running on Amazon P2 instance, instantiated with AMI image for USF Deep Learning Class
 
+- test setup on P2
    27  git init
    29  git add .gitignore 
    30  git add *.py
